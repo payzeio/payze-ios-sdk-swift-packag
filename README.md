@@ -3,11 +3,10 @@ Payze Library for easy integration of payments into the iOS app.
 
 ### Installation:
 
-Create podfile in your project
 
-Add our dependencie by adding this code in your podfile
+Add our dependencie by choosing 'File' in your Xcode project, then choose Add packages and search our library with github url
 ```groovy
-pod 'Payze-iOS-sdk', :git => 'https://github.com/payzeio/payze-ios-sdk.git'
+https://github.com/payzeio/payze-ios-sdk.git
 ```
 
 ### Usage:
